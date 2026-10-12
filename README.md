@@ -1,3 +1,10 @@
+> **Moved:** herdr-stack now lives in [therealhieu/herdr-plugins](https://github.com/therealhieu/herdr-plugins/tree/main/stack). This repository is archived.
+>
+> ```sh
+> herdr plugin uninstall herdr-stack
+> herdr plugin install therealhieu/herdr-plugins/stack
+> ```
+
 # herdr-stack
 
 Zellij-style stacked panes for [Herdr](https://herdr.dev), as a plugin on stock Herdr.
